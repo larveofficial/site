@@ -1,0 +1,16 @@
+@charset "utf-8";
+*{box-sizing:border-box}
+a{color: #f1c50e}
+    
+body{
+font-family: "Lucida Console", "Courier New", monospace;
+color:white;
+background-color:rgb(26, 25, 25);
+max-width:60rem;
+padding-left:2rem;
+padding-right:2rem;
+margin:auto;
+line-height:1.3
+}
+
+
